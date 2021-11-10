@@ -1,6 +1,7 @@
 from function.add_function import add_function
 
 
+# value
 x = 10
 y = 20
 
